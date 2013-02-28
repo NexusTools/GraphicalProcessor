@@ -1,0 +1,17 @@
+[
+{
+  "modid": "GraphicalProcessor",
+  "name": "Graphical Processor",
+  "description": "A mod which adds the capability of graphical processing to make a potential of anything.",
+  "version": "0.1",
+  "mcversion": "1.4.7",
+  "logoFile": "",
+  "url": "http://www.minecraftforum.net/topic/1152770-",
+  "updateUrl": "",
+  "authors": ["Steve4448"],
+  "credits": "Made by Steve4448.",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
