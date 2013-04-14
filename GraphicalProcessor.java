@@ -1,4 +1,4 @@
-package steve4448.GraphicalProcessor;
+package GraphicalProcessor;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.Init;
