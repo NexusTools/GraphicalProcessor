@@ -1,4 +1,4 @@
-package nexustools;
+package nexustools.graphicalprocessor;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.Init;
